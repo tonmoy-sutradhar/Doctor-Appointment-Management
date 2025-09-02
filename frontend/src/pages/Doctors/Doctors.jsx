@@ -1,11 +1,11 @@
 import React from "react";
 
-function Routes() {
+function Doctors() {
   return (
     <div>
-      <h1>router</h1>
+      <h1>Doctors</h1>
     </div>
   );
 }
 
-export default Routes;
+export default Doctors;
